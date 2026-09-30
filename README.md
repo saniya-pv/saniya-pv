@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi 👋, I'm Saniya
-### Aspiring Software Developer | Python Developer | Web Developer
+### Aspiring Software Developer | Python & Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Recent+BTech+Graduate" />
 

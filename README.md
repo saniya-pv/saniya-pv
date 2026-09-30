@@ -3,7 +3,7 @@
 # Hi 👋, I'm Saniya
 ### Aspiring Software Developer | Python Developer | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Recent+Graduate+%7C+Software+Developer;Passionate+about+Python+and+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Recent+BTech+Graduate" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=saniya-pv&label=Profile%20views&color=0e75b6&style=flat)
 
